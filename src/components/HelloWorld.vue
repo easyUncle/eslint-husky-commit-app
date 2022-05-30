@@ -95,7 +95,8 @@ export default {
   data() {
     return {
       a: 0,
-      b: 3
+      b: 3,
+      c: 4
     }
   }
 }
