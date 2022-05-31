@@ -96,7 +96,8 @@ export default {
     return {
       a: 0,
       b: 3,
-      c: 4
+      c: 4,
+      d: 5
     }
   }
 }
